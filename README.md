@@ -24,3 +24,4 @@ Authorization example. I used clj-http.client (:as http) and clojure.data.json (
              })
 ```
 Test your sender configuration with mail-tester.com.
+https://sendgrid.com/docs/API_Reference/api_v3.html
